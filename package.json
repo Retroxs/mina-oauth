@@ -1,0 +1,11 @@
+{
+  "name": "mina-oauth",
+  "version": "1.0.0",
+  "description": "MINA OAuth",
+  "main": "lib/oauth.js",
+  "author": "Retroxs",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
